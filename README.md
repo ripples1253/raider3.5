@@ -3,7 +3,7 @@
 - Fortnite 3.5 Custom Gameserver
 
 ## - Download
- - You can find and download the most recent build from the stable branch [here](https://nightly.link/kem0x/raider3.5/workflows/msbuild/stable/Release.zip) 
+ - You can find and download the most recent build from the stable branch [here](https://nightly.link/ripples1253/raider3.5/workflows/msbuild/stable/Release.zip) 
 
 ## - Disclaimer
 
